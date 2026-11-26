@@ -4,36 +4,11 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:241638,100:8957E5&height=220&section=header&text=Diego&fontSize=65&fontColor=F0F6FC&fontAlignY=38&desc=Software%20Developer%20%7C%20Creative%20Mind&descAlignY=58&descSize=17&animation=fadeIn" />
 
-<a href="https://github.com/diegosouzaa77>
-  <img src="https://img.shields.io/badge/GitHub-diegosouzaa77-8957E5?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/Diegosouzaa77">
+  <img src="https://img.shields.io/badge/GitHub-DiegoSouzaa77-8957E5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
----
-
-## 🌐 Find me around the web | Me encontre por aí
-
-<div align="center">
-
-<a href="https://www.instagram.com/diego_souzaa10" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/diego-andrade-souza-a64302266/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="https://boxd.it/5GjqH" target="_blank">
-  <img src="https://img.shields.io/badge/Letterboxd-00A878?style=for-the-badge&logo=letterboxd&logoColor=white" alt="Letterboxd" />
-</a>
-
-<br/>
-
-*Let's connect! | Vamos nos conectar!*
-
-</div>
-
-
-<br/>
+<br/><br/>
 
 **Building things I love, for people I love.**
 
@@ -43,7 +18,30 @@
 
 ---
 
-<!-- ABOUT ME -->
+## 🌐 Find me around the web | Me encontre por aí
+
+<div align="center">
+
+<a href="https://www.instagram.com/diego_souzaa10">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/diego-andrade-souza-a64302266/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://boxd.it/5GjqH">
+  <img src="https://img.shields.io/badge/Letterboxd-00A878?style=for-the-badge&logo=letterboxd&logoColor=white" alt="Letterboxd" />
+</a>
+
+<br/>
+
+*Let's connect! | Vamos nos conectar!*
+
+</div>
+
+---
+
 ## 🎬 About Me | Sobre mim
 
 ### 🇺🇸 English
@@ -64,7 +62,6 @@ Para mim, programar é mais do que escrever código. É uma maneira de dar vida 
 
 ---
 
-<!-- TECHNOLOGIES -->
 ## 💻 Technologies & Tools | Tecnologias e ferramentas
 
 **Currently working with and exploring:**
@@ -77,7 +74,6 @@ Para mim, programar é mais do que escrever código. É uma maneira de dar vida 
 
 ---
 
-<!-- PROJECTS -->
 ## 🚀 Featured Projects | Projetos em destaque
 
 ### 🧾 NFBot
@@ -94,24 +90,22 @@ Um projeto voltado a simplificar a rotina de microempreendedores individuais por
 
 ---
 
-<!-- GITHUB STATS -->
 ## 📊 GitHub Statistics | Estatísticas
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C4A1FF&icon_color=8957E5&text_color=F0F6FC&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Diegosouzaa77&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C4A1FF&icon_color=8957E5&text_color=F0F6FC&include_all_commits=true&count_private=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=C4A1FF&text_color=F0F6FC" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diegosouzaa77&layout=compact&hide_border=true&bg_color=0D1117&title_color=C4A1FF&text_color=F0F6FC" />
 
 <br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=transparent&hide_border=true&ring=8957E5&fire=C4A1FF&currStreakLabel=C4A1FF&sideLabels=F0F6FC&dates=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC" />
+<img width="75%" src="https://streak-stats.demolab.com?user=Diegosouzaa77&theme=transparent&hide_border=true&ring=8957E5&fire=C4A1FF&currStreakLabel=C4A1FF&sideLabels=F0F6FC&dates=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC" />
 
 </div>
 
 ---
 
-<!-- BEYOND CODE -->
 ## 🎮 Beyond Code | Além da programação
 
 Technology is a big part of my life, but there's much more to it.
@@ -127,7 +121,6 @@ A tecnologia é uma parte importante da minha vida, mas existem muitas outras pa
 
 ---
 
-<!-- PERSONAL PHILOSOPHY -->
 <div align="center">
 
 ## ✨ A little philosophy
