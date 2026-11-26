@@ -8,6 +8,31 @@
   <img src="https://img.shields.io/badge/GitHub-diegosouzaa77-8957E5?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+---
+
+## 🌐 Find me around the web | Me encontre por aí
+
+<div align="center">
+
+<a href="https://www.instagram.com/diego_souzaa10" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/diego-andrade-souza-a64302266/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://boxd.it/5GjqH" target="_blank">
+  <img src="https://img.shields.io/badge/Letterboxd-00A878?style=for-the-badge&logo=letterboxd&logoColor=white" alt="Letterboxd" />
+</a>
+
+<br/>
+
+*Let's connect! | Vamos nos conectar!*
+
+</div>
+
+
 <br/>
 
 **Building things I love, for people I love.**
