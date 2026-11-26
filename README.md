@@ -5,7 +5,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:241638,100:8957E5&height=220&section=header&text=Diego&fontSize=65&fontColor=F0F6FC&fontAlignY=38&desc=Software%20Developer%20%7C%20Creative%20Mind&descAlignY=58&descSize=17&animation=fadeIn" />
 
 <a href="https://github.com/diegosouzaa77>
-  <img src="https://img.shields.io/badge/GitHub-SEU_USERNAME-8957E5?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-diegosouzaa77-8957E5?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/>
